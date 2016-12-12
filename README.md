@@ -3,3 +3,4 @@ This repository contains the projects that I have done during the Udacity Machin
 
 ## Project
 - Titanic Survival Exploration
+using a manual implementation of the decision tree, a set of data is splited into smaller and smaller groups (called nodes), by one feature at a time. 
