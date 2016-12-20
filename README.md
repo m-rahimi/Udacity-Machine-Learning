@@ -6,4 +6,4 @@ This repository contains the projects that I have done during the Udacity Machin
 - `boston_housing` Evaluate the performance of a predictive model and try to improve the performance of the model by using cross-validation training technique and grid search technique.
 - `student_intervention` Implement K-Nearest Neighbors, Logistic Regression, Support Vector Machines, Decision Tree, and Naive Bayes models for a classification problem and compare their performance to choose the best model. Use grid search to tune the parameters and optimize the models.
 - `creating_customer_segments` Visualize and calculate the correlation between features to explore data and implement a proper unsupervised model.
-- 'smartcab' Implement a Q-Learning method and train a smartcab to improve the safety and reliability.
+- `smartcab` Implement a Q-Learning method and train a smartcab to improve the safety and reliability.
